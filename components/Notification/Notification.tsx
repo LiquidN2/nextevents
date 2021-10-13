@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 
-import styles from './notification.module.scss';
+import styles from './Notification.module.scss';
 import NotificationContext from '../../store/notificationContext';
 
 type Props = {
